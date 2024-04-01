@@ -1,2 +1,2 @@
-alert("js2")
-alert("2222")
+alert("js21")
+console.log("ssss");
