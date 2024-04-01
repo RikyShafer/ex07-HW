@@ -1,4 +1,4 @@
 alert("היי")
 const r=()=>{
-    alert(5)
+    console.log(5);
 }
