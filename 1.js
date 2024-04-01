@@ -1,4 +1,4 @@
 alert("היי")
 const r=()=>{
-    alert("r")
+    alert(5)
 }
