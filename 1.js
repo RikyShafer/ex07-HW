@@ -3,7 +3,6 @@ const r=()=>{
     aconsole.log("r");
     alert("r")
 }
-
 const i=()=>{
     console.log("i");
     alert("i")
