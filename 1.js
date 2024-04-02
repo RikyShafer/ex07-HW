@@ -7,4 +7,3 @@ const r=()=>{
 const i=()=>{
     console.log("riki");
     alert("riki")
-}
