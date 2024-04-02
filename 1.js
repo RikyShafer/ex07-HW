@@ -1,5 +1,9 @@
 alert("היי")
 const r=()=>{
-    console.log(5);
-    alert("5")
+    alert(5)
 }
+
+
+const i=()=>{
+    console.log("riki");
+    alert("riki")
